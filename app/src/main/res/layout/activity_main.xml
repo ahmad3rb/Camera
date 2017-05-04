@@ -32,9 +32,6 @@
         android:id="@+id/button"
 
 
-
-
-
         />
 
     <ImageView
